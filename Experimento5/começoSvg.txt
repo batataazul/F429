@@ -1,0 +1,22 @@
+Arquivo contendo os pontos amostrais do interferÔmetro de Michelson,,,
+
+
+Data:,,8\10\2019,
+
+
+Hora:,,8:53:34,
+
+
+Quantidade de franjas:,,0,
+
+Arquivo contendo os pontos amostrais do interferÔmetro de Michelson,,,
+
+
+Data:,,8\10\2019,
+
+
+Hora:,,9:33:30,
+
+
+Quantidade de franjas:,,0,
+
